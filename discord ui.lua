@@ -104,7 +104,7 @@ function DiscordLib:Window(text)
 	local UserIconCorner = Instance.new("UICorner")
 	local UserImage = Instance.new("ImageLabel")
 	local UserCircleImage = Instance.new("ImageLabel")
-	local UserName = Instance.new("TextLabel")
+	local = Instance.new("TextLabel")
 	local UserTag = Instance.new("TextLabel")
 	local ServersHoldFrame = Instance.new("Frame")
 	local ServersHold = Instance.new("ScrollingFrame")
@@ -547,7 +547,7 @@ function DiscordLib:Window(text)
 	UsernameText.Position = UDim2.new(0.0419999994, 0, 0.154714286, 0)
 	UsernameText.Size = UDim2.new(0, 65, 0, 19)
 	UsernameText.Font = Enum.Font.GothamBold
-	UsernameText.Text = "USERNAME"
+	UsernameText.Text = "username"
 	UsernameText.TextColor3 = Color3.fromRGB(126, 130, 136)
 	UsernameText.TextSize = 11.000
 	UsernameText.TextXAlignment = Enum.TextXAlignment.Left
