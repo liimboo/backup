@@ -1,4 +1,4 @@
--- @spoky on v3rm for alt manager/control accounts 4 dhc selling
+-- spoky on v3rm for alt manager/control accounts 4 dhc selling
 -- swagmode for server crasher
 -- racemodex for da hood cash dropper 
 
