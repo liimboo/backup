@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/shroomsss/backup/main/linoria%20uihttps://raw.githubusercontent.com/shroomsss/backup/main/linoria%20uilocal InputService = game:GetService('UserInputService');
+local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
 local TweenService = game:GetService('TweenService');
 local CoreGui = game:GetService('CoreGui');
